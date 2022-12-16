@@ -3,7 +3,7 @@ syntax : python caesar_cracker.py <encrypted_message_file>
 
 basically tries every shift and u need to manually search which one is redable and only works with alphabets not with numbers puncuations or spaces.
 
-theres a message.txt file which is encrypted you can try to decrypt it
+theres a encrypted text file you can try to decrypt it
 
 it should look somehting like this after being decrypted:
 
